@@ -1,8 +1,8 @@
 {
-    "url": "https://th3-r3sistanc3.github.io/swagger/exploit.yaml",
+    "url": "https://th3-r3sistanc3.github.io/swagger/xss-fetch.yaml",
     "urls": [
         {
-            "url": "https://th3-r3sistanc3.github.io/swagger/exploit.yaml",
+            "url": "https://th3-r3sistanc3.github.io/swagger/xss-fetch.yaml",
             "name": "Foo"
         }
     ]
